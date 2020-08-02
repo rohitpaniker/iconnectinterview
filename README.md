@@ -12,8 +12,6 @@ Install and use [NodeJS](https://github.com/nodejs/node)'s node command to run t
 
 Use the package manager [npm](https://github.com/nodejs/node) to install require node_modules.
 
-\*PS: Please make sure you have file_input.txt in the same directory as main.js or else create one
-
 ## Usage
 
 Git clone the repo then:
