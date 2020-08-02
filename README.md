@@ -21,7 +21,7 @@ cd iconnectinterview
 node index.js
 ```
 
-##Valid Commands:
+## Valid Commands:
 
 ```bash
 INPUT FORMAT: (no space between separators) <purchase_country>:<optional_passport_number>:<item_type>:<number_of_units_to_be_ordered>:<item_type>:<number_of_units_to_be_ordered>
